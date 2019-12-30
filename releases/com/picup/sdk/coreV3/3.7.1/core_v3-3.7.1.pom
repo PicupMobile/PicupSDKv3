@@ -3,11 +3,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.picup.sdk</groupId>
-  <artifactId>coreV3</artifactId>
+  <artifactId>core_v3</artifactId>
   <version>3.7.1</version>
   <packaging>aar</packaging>
   <name>PicUp SDK</name>
-  <description>PicUp SDK</description>
+  <description>PicUp SDK V3</description>
   <url>https://github.com/PicupMobile/PicupSDK_v3</url>
   <licenses>
     <license>
