@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.picup.sdk</groupId>
-  <artifactId>core</artifactId>
+  <artifactId>coreV3</artifactId>
   <version>3.7.1</version>
   <packaging>aar</packaging>
   <name>PicUp SDK</name>
