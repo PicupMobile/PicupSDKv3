@@ -3,7 +3,7 @@
   <groupId>com.picup.sdk</groupId>
   <artifactId>core_v3</artifactId>
   <versioning>
-    <release>3.8.6.9</release>
+    <release>3.8.6.10</release>
     <versions>
       <version>3.7.1</version>
       <version>3.7.2</version>
@@ -24,7 +24,8 @@
       <version>3.8.6.7</version>
       <version>3.8.6.8</version>
       <version>3.8.6.9</version>
+      <version>3.8.6.10</version>
     </versions>
-    <lastUpdated>20200511183949</lastUpdated>
+    <lastUpdated>20200511190859</lastUpdated>
   </versioning>
 </metadata>
