@@ -1,0 +1,213 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.picup.sdk",
+    "module": "core_v3",
+    "version": "5.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "EnvProdVariantEnvProdApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "core_v3-5.0.0.aar",
+          "url": "core_v3-5.0.0.aar",
+          "size": 1676434,
+          "sha512": "cc15cf4e61f05caf6d0c668d8e9503d96511fe4fbe65170142aaf2a9fddf43a0ab932fd847943a33479102ab870c5047b58162c10762665c6d6f242ab386784c",
+          "sha256": "0ee253483f8a2294a58ba555b90251ecf1074f9cdf98112d3fc4f32a144fac77",
+          "sha1": "fc1e9ad4bcbb8720606ddf127af27b9e46f26cef",
+          "md5": "6e8aee78d4e25c300e139233d0669719"
+        }
+      ]
+    },
+    {
+      "name": "EnvProdVariantEnvProdRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.legacy",
+          "module": "legacy-support-v13",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "com.mixpanel.android",
+          "module": "mixpanel-android",
+          "version": {
+            "requires": "5.8.7"
+          }
+        },
+        {
+          "group": "com.android.installreferrer",
+          "module": "installreferrer",
+          "version": {
+            "requires": "2.2"
+          }
+        },
+        {
+          "group": "androidx.constraintlayout",
+          "module": "constraintlayout",
+          "version": {
+            "requires": "2.1.4"
+          }
+        },
+        {
+          "group": "com.makeramen",
+          "module": "roundedimageview",
+          "version": {
+            "requires": "2.3.0"
+          }
+        },
+        {
+          "group": "com.splunk.mint",
+          "module": "mint",
+          "version": {
+            "requires": "4.1"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "3.14.9"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "logging-interceptor",
+          "version": {
+            "requires": "3.12.6"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "retrofit",
+          "version": {
+            "requires": "2.9.0"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "converter-gson",
+          "version": {
+            "requires": "2.9.0"
+          }
+        },
+        {
+          "group": "org.greenrobot",
+          "module": "eventbus",
+          "version": {
+            "requires": "3.0.0"
+          }
+        },
+        {
+          "group": "com.google.firebase",
+          "module": "firebase-messaging",
+          "version": {
+            "requires": "23.1.0"
+          }
+        },
+        {
+          "group": "com.google.firebase",
+          "module": "firebase-config",
+          "version": {
+            "requires": "21.2.0"
+          }
+        },
+        {
+          "group": "com.google.android.gms",
+          "module": "play-services-gcm",
+          "version": {
+            "requires": "17.0.0"
+          }
+        },
+        {
+          "group": "com.github.castorflex.smoothprogressbar",
+          "module": "library-circular",
+          "version": {
+            "requires": "1.3.0"
+          }
+        },
+        {
+          "group": "androidx.work",
+          "module": "work-runtime",
+          "version": {
+            "requires": "2.7.1"
+          }
+        },
+        {
+          "group": "com.github.bumptech.glide",
+          "module": "glide",
+          "version": {
+            "requires": "4.11.0"
+          },
+          "excludes": [
+            {
+              "group": "com.android.support",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "org.bouncycastle",
+          "module": "bcprov-jdk15on",
+          "version": {
+            "requires": "1.70"
+          }
+        },
+        {
+          "group": "androidx.security",
+          "module": "security-crypto",
+          "version": {
+            "requires": "1.1.0-alpha03"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.4.1"
+          }
+        },
+        {
+          "group": "org.conscrypt",
+          "module": "conscrypt-android",
+          "version": {
+            "requires": "2.4.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core_v3-5.0.0.aar",
+          "url": "core_v3-5.0.0.aar",
+          "size": 1676434,
+          "sha512": "cc15cf4e61f05caf6d0c668d8e9503d96511fe4fbe65170142aaf2a9fddf43a0ab932fd847943a33479102ab870c5047b58162c10762665c6d6f242ab386784c",
+          "sha256": "0ee253483f8a2294a58ba555b90251ecf1074f9cdf98112d3fc4f32a144fac77",
+          "sha1": "fc1e9ad4bcbb8720606ddf127af27b9e46f26cef",
+          "md5": "6e8aee78d4e25c300e139233d0669719"
+        }
+      ]
+    }
+  ]
+}
