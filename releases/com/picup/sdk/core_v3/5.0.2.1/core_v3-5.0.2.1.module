@@ -26,11 +26,11 @@
         {
           "name": "core_v3-5.0.2.1.aar",
           "url": "core_v3-5.0.2.1.aar",
-          "size": 1857287,
-          "sha512": "be710f18930f67ff18e46dcc9ecd9f525ced2aeb9c07d64fc0395e3902c74a2f155a3e505e250836e72e214c6f08d757e71b048257f615d6640018ee3eb71114",
-          "sha256": "c8381f59bdde79560e6ff088a25a482f3266eaef3893baf16c46f703784878ed",
-          "sha1": "7a6ab11dbffbd1cd04fb8422d621e829d037c0c8",
-          "md5": "d4924d45544b755ee8ac964335bb941e"
+          "size": 1676802,
+          "sha512": "81bf623519ae21b45f0311098791ca40d2512790e0d3eeeedcd8baa16390e0456f424f766aea08e0adc68248736cef95f124d985368284e3aaba100ab3713f4b",
+          "sha256": "9cb9b95fe45ea683c95a26c5f9d22fb1c22f5b45d1eaaf3c6820bed2581077b9",
+          "sha1": "fa6f1930017b010b0cd93c9397a16934f5a7ebb9",
+          "md5": "8cbb8e332619edfe1619d83be5cdbed9"
         }
       ]
     },
@@ -188,24 +188,17 @@
           "version": {
             "requires": "2.4.0"
           }
-        },
-        {
-          "group": "com.instabug.library",
-          "module": "instabug",
-          "version": {
-            "requires": "11.5.3"
-          }
         }
       ],
       "files": [
         {
           "name": "core_v3-5.0.2.1.aar",
           "url": "core_v3-5.0.2.1.aar",
-          "size": 1857287,
-          "sha512": "be710f18930f67ff18e46dcc9ecd9f525ced2aeb9c07d64fc0395e3902c74a2f155a3e505e250836e72e214c6f08d757e71b048257f615d6640018ee3eb71114",
-          "sha256": "c8381f59bdde79560e6ff088a25a482f3266eaef3893baf16c46f703784878ed",
-          "sha1": "7a6ab11dbffbd1cd04fb8422d621e829d037c0c8",
-          "md5": "d4924d45544b755ee8ac964335bb941e"
+          "size": 1676802,
+          "sha512": "81bf623519ae21b45f0311098791ca40d2512790e0d3eeeedcd8baa16390e0456f424f766aea08e0adc68248736cef95f124d985368284e3aaba100ab3713f4b",
+          "sha256": "9cb9b95fe45ea683c95a26c5f9d22fb1c22f5b45d1eaaf3c6820bed2581077b9",
+          "sha1": "fa6f1930017b010b0cd93c9397a16934f5a7ebb9",
+          "md5": "8cbb8e332619edfe1619d83be5cdbed9"
         }
       ]
     }
